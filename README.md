@@ -56,4 +56,4 @@
 活动活动
 | leetcode|
 |----|
-|  |
+| [Go 官方网站](https://golang.org/) 、[Go 中文官方网站](https://go-zh.org/) |
