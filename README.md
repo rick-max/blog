@@ -22,7 +22,7 @@
 | [从零到 Go 大神](https://medium.freecodecamp.org/learning-go-from-zero-to-hero-d2a3223b3d86) |
 
 ## es 学习记录
-
+学习地址：https://time.geekbang.org/course/intro/100030501
 | es|
 |----|
 |  |
