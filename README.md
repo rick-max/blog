@@ -56,4 +56,4 @@
 活动活动
 | leetcode|
 |----|
-| [机器人的运动方位](https://www.jianshu.com/p/0518891503b7/) |
+| [机器人的运动范围](https://www.jianshu.com/p/0518891503b7/) |
