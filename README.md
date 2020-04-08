@@ -25,6 +25,7 @@
 学习地址：https://time.geekbang.org/course/intro/100030501
 | es|
 |----|
+| [分词器](https://www.jianshu.com/p/b7613840e3b8) |
 |  |
 
 ## mysql 学习记录
