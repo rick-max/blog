@@ -21,3 +21,33 @@
 | [快学 Go 语言](https://zhuanlan.zhihu.com/quickgo) |
 | [从零到 Go 大神](https://medium.freecodecamp.org/learning-go-from-zero-to-hero-d2a3223b3d86) |
 
+## es 学习记录
+
+| es|
+|----|
+|  |
+
+## mysql 学习记录
+
+| mysql|
+|----|
+|  |
+
+
+## go 学习记录
+
+| go|
+|----|
+|  |
+
+## 操作系统 学习记录
+
+| 操作系统|
+|----|
+|  |
+
+## 网络 学习记录
+
+| 网络|
+|----|
+|  |
