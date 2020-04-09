@@ -26,6 +26,7 @@
 | es|
 |----|
 | [分词器](https://www.jianshu.com/p/b7613840e3b8) |
+| [CRUD操作](https://www.jianshu.com/p/9d308d5880e7) |
 |  |
 
 ## mysql 学习记录
@@ -58,3 +59,4 @@
 | leetcode|
 |----|
 | [机器人的运动范围](https://www.jianshu.com/p/0518891503b7/) |
+| [括号生成](https://www.jianshu.com/p/86fb6b80fa1b) |
