@@ -27,6 +27,7 @@
 |----|
 | [分词器](https://www.jianshu.com/p/b7613840e3b8) |
 | [CRUD操作](https://www.jianshu.com/p/9d308d5880e7) |
+| [search API操作](https://www.jianshu.com/p/72ee5352fba7) |
 |  |
 
 ## mysql 学习记录
