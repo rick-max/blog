@@ -29,7 +29,7 @@
 | [CRUD操作](https://www.jianshu.com/p/9d308d5880e7) |
 | [search API操作](https://www.jianshu.com/p/72ee5352fba7) |
 | [显示Mapping和常用参数](https://www.jianshu.com/p/33ef8c54f10a) |
-| [显式Mapping和常用参数](https://www.jianshu.com/p/33ef8c54f10a) |
+| [Dynamic Mapping](https://www.jianshu.com/p/01d0f4da71bc) |
 |  |
 
 ## mysql 学习记录
