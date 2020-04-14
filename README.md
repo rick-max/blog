@@ -28,6 +28,8 @@
 | [分词器](https://www.jianshu.com/p/b7613840e3b8) |
 | [CRUD操作](https://www.jianshu.com/p/9d308d5880e7) |
 | [search API操作](https://www.jianshu.com/p/72ee5352fba7) |
+| [显示Mapping和常用参数](https://www.jianshu.com/p/33ef8c54f10a) |
+| [显式Mapping和常用参数](https://www.jianshu.com/p/33ef8c54f10a) |
 |  |
 
 ## mysql 学习记录
@@ -62,4 +64,7 @@
 | [机器人的运动范围](https://www.jianshu.com/p/0518891503b7/) |
 | [括号生成](https://www.jianshu.com/p/86fb6b80fa1b) |
 | [ 翻转字符串里的单词](https://www.jianshu.com/p/4137780c2c70) |
+| [ 设计推特](https://www.jianshu.com/p/9314b675819a) |
+| [ 两数相加](https://www.jianshu.com/p/b31585e61781) |
+|  |
 
