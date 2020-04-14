@@ -30,7 +30,10 @@
 | [search API操作](https://www.jianshu.com/p/72ee5352fba7) |
 | [显示Mapping和常用参数](https://www.jianshu.com/p/33ef8c54f10a) |
 | [Dynamic Mapping](https://www.jianshu.com/p/01d0f4da71bc) |
+| [Query String&Simple Query String](https://www.jianshu.com/p/c30b73f8ecee) |
+| [Request Body Search](https://www.jianshu.com/p/b77eff10b551) |
 |  |
+
 
 ## mysql 学习记录
 
