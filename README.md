@@ -32,6 +32,7 @@
 | [Dynamic Mapping](https://www.jianshu.com/p/01d0f4da71bc) |
 | [Query String&Simple Query String](https://www.jianshu.com/p/c30b73f8ecee) |
 | [Request Body Search](https://www.jianshu.com/p/b77eff10b551) |
+| [es 多字段特性及Mapping中配置自定义Analyzer](https://www.jianshu.com/p/9fc4b1206b0f) |
 |  |
 
 
@@ -70,5 +71,6 @@
 | [ 设计推特](https://www.jianshu.com/p/9314b675819a) |
 | [ 两数相加](https://www.jianshu.com/p/b31585e61781) |
 | [ 01 Matrix](https://www.jianshu.com/p/132d91c313cd) |
+| [ 合并区间](https://www.jianshu.com/p/d79674d60c91) |
 |  |
 
