@@ -35,6 +35,7 @@
 | [es 多字段特性及Mapping中配置自定义Analyzer](https://www.jianshu.com/p/9fc4b1206b0f) |
 | [ES 中Index Template和Dynamic Template](https://www.jianshu.com/p/3c69eaaefb7b) |
 | [ES 聚合索引简介](https://www.jianshu.com/p/304df9602c29) |
+| [基于term和基于全文的搜索](https://www.jianshu.com/p/23551499e766) |
 |  |
 
 
