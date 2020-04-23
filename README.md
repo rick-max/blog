@@ -37,6 +37,7 @@
 | [ES 聚合索引简介](https://www.jianshu.com/p/304df9602c29) |
 | [基于term和基于全文的搜索](https://www.jianshu.com/p/23551499e766) |
 | [结构化搜索](https://www.jianshu.com/p/b90f720e1061) |
+| [搜索相关性得分](https://www.jianshu.com/p/67f6050c20dd) |
 |  |
 
 
