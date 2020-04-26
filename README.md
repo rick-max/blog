@@ -82,5 +82,6 @@
 | [岛屿数量](https://www.jianshu.com/p/25f1a206a7fe) |
 | [统计「优美子数组」](https://www.jianshu.com/p/5a9c70bac71c) |
 | [二叉树的右视图](https://www.jianshu.com/p/9345fca3a400) |
+| [合并K个排序链表](https://www.jianshu.com/p/a6a9f9277da0) |
 |  |
 
