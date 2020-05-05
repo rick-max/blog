@@ -83,5 +83,16 @@
 | [统计「优美子数组」](https://www.jianshu.com/p/5a9c70bac71c) |
 | [二叉树的右视图](https://www.jianshu.com/p/9345fca3a400) |
 | [合并K个排序链表](https://www.jianshu.com/p/a6a9f9277da0) |
+| [数组中数字出现的次数](https://www.jianshu.com/p/dab1cb393fa8) |
+| [山脉数组中查找目标值](https://www.jianshu.com/p/231146d68d98) |
+| [快乐数](https://www.jianshu.com/p/3e57950f0218) |
+| [丑数](https://www.jianshu.com/p/aee516bd07ab) |
+| [合并两个有序链表](https://www.jianshu.com/p/53a1f9e6e92f) |
+| [整数反转](https://www.jianshu.com/p/94476a685e65) |
+| [无重复字符的最长子串](https://www.jianshu.com/p/f51b71e2c282) |
+| [最大子序和](https://www.jianshu.com/p/8ad641d92faf) |
+| [买卖股票的最佳时机](https://www.jianshu.com/p/58ab003478fe) |
+| [跳跃游戏 II](https://www.jianshu.com/p/4a0d5175d731) |
+| [验证二叉搜索树](https://www.jianshu.com/p/491cec184bea) |
 |  |
 
