@@ -94,5 +94,6 @@
 | [买卖股票的最佳时机](https://www.jianshu.com/p/58ab003478fe) |
 | [跳跃游戏 II](https://www.jianshu.com/p/4a0d5175d731) |
 | [验证二叉搜索树](https://www.jianshu.com/p/491cec184bea) |
+| [最低票价](https://www.jianshu.com/p/7c20fbfa6240) |
 |  |
 
