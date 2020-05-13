@@ -98,5 +98,7 @@
 | [另一个树的子树](https://www.jianshu.com/p/9d08998e840e) |
 | [最大正方形](https://www.jianshu.com/p/958988b3179b) |
 | [Pow(x, n)](https://www.jianshu.com/p/9aeaa4e1a0ca) |
+| [最小栈](https://www.jianshu.com/p/687b9a4c2a4c) |
+| [二叉树的层序遍历](https://www.jianshu.com/p/4d8c8bf3148d) |
 |  |
 
