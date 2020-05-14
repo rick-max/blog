@@ -100,5 +100,6 @@
 | [Pow(x, n)](https://www.jianshu.com/p/9aeaa4e1a0ca) |
 | [最小栈](https://www.jianshu.com/p/687b9a4c2a4c) |
 | [二叉树的层序遍历](https://www.jianshu.com/p/4d8c8bf3148d) |
+| [只出现一次的数字](https://www.jianshu.com/p/9bef39acea07) |
 |  |
 
