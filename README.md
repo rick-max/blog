@@ -102,5 +102,7 @@
 | [二叉树的层序遍历](https://www.jianshu.com/p/4d8c8bf3148d) |
 | [只出现一次的数字](https://www.jianshu.com/p/9bef39acea07) |
 | [和为K的子数组](https://www.jianshu.com/p/06385131b57c) |
+| [乘积最大子数组](https://www.jianshu.com/p/d14b0fa7bcb8) |
+| [验证回文字符串 Ⅱ](https://www.jianshu.com/p/f61455b9ad96) |
 |  |
 
