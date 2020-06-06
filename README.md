@@ -46,6 +46,7 @@
 | go|
 |----|
 | [sync pool 源码分析 ](https://www.jianshu.com/p/5afa38b42ce2) |
+| [go recover 发现的有意思的点 ](https://www.jianshu.com/p/508abc0a0fae) |
 |  |
 
 
