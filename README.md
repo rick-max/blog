@@ -91,7 +91,7 @@
 | [乘积最大子数组](https://www.jianshu.com/p/d14b0fa7bcb8) |
 | [验证回文字符串 Ⅱ](https://www.jianshu.com/p/f61455b9ad96) |
 | [回溯](https://www.jianshu.com/p/4f62acd34f53) |
-
+| [第一周 链表学习](https://www.jianshu.com/p/6050750b0430) |
 
 |  |
 
