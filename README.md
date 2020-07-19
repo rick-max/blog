@@ -56,6 +56,7 @@
 活动活动
 | leetcode|
 |----|
+| [学习计划](https://www.jianshu.com/p/053225935118) |
 | [机器人的运动范围](https://www.jianshu.com/p/0518891503b7/) |
 | [括号生成](https://www.jianshu.com/p/86fb6b80fa1b) |
 | [ 翻转字符串里的单词](https://www.jianshu.com/p/4137780c2c70) |
